@@ -30,7 +30,7 @@ To integrate Font Awesome Pro icons into your web projects, follow these steps:
 2. **Integration into HTML:**
    - Include the Font Awesome CSS file in your HTML document.
      ```html
-     <link href="https://cdn.jsdelivr.net/gh/ms3welz/Font-Awesome-Pro/fontawesome-pro-6.5.1-web/css/all.min.css" rel="stylesheet">
+     <link href="https://cdn.jsdelivr.net/gh/ms3welz/Font-Awesome-6-Pro/fontawesome-pro-6.5.1-web/css/all.min.css" rel="stylesheet">
      ```
 
 3. **Displaying Icons:**
@@ -58,7 +58,7 @@ For more information on usage and complete documentation, visit the [Font Awesom
 ## License
 
 Make sure to check the Font Awesome Pro license before using its icons in your projects.
-<div style="text-align: left;"><a href="https://github.com/ms3welz/Font-Awesome-Pro/blob/main/LICENSE" target="_blank"><img alt="LICENSE" src="https://img.shields.io/github/license/ms3welz/font-awesome-pro"></a></div>
+<div style="text-align: left;"><a href="https://github.com/ms3welz/Font-Awesome-6-Pro/blob/main/LICENSE" target="_blank"><img alt="LICENSE" src="https://img.shields.io/github/license/ms3welz/font-awesome-6-pro"></a></div>
 
 ## Contributions
 
